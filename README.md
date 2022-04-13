@@ -23,5 +23,5 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deepalii05&theme=blue-green)
 <br>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+</t>     ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br>

@@ -1,7 +1,7 @@
-https://drive.google.com/file/d/18LOnjufyGduanqpMQNKxLr87lPgk22KQ/view?usp=sharing
+
 [![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://deepalii05.dev)
 <br><br>
-
+   
 
 ![Visits Badge](https://badges.pufler.dev/visits/deepalii05/deepalii05)
 ![Followers Badge](https://img.shields.io/github/followers/deepalii05)

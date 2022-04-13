@@ -6,15 +6,9 @@
 ![Visits Badge](https://badges.pufler.dev/visits/deepalii05/deepalii05)
 ![Followers Badge](https://img.shields.io/github/followers/deepalii05)
 [![Years Badge](https://badges.pufler.dev/years/deepalii05)](https://badges.deepalii05.dev)
-
 [![Repos Badge](https://badges.pufler.dev/repos/deepalii05)](https://badges.deepalii05.dev)
-<br>
-
 [![Created Badge](https://badges.pufler.dev/created/puf17640/git-badges)](https://badges.deepalii05.dev)
-<br>
-
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/deepalii05)](https://badges.pufler.dev)
-<br>
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=deepalii05&show_icons=true)
 <br>

@@ -1,5 +1,5 @@
 <div align="center">
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)]
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 <br><br>
    
 

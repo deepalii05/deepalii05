@@ -12,5 +12,4 @@
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=deepalii05&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deepalii05&theme=blue-green)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<img src=https://komarev.com/ghpvc/?username = deepalii05/>
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/deepalii05/deepalii05)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/deepalii05)

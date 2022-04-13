@@ -6,5 +6,5 @@
 <br><br>
 [![Repos Badge](https://badges.pufler.dev/repos/deepalii05)](https://badges.deepalii05.dev)
 <br><br>
-[![Gists Badge](https://badges.pufler.dev/gists/deepalii05)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/puf17640/git-badges)](https://badges.deepalii05.dev)
 <br><br>

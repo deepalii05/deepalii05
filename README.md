@@ -3,7 +3,7 @@
 https://user-images.githubusercontent.com/77734636/163213527-7250ab72-a14a-43bb-b4f2-44c58bb140ea.mp4
 
 
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+
 <br><br>
   
 ![Visits Badge](https://badges.pufler.dev/visits/deepalii05/deepalii05)
@@ -32,3 +32,5 @@ https://user-images.githubusercontent.com/77734636/163213527-7250ab72-a14a-43bb-
 <br>
 
    </div>
+
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)

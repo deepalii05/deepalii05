@@ -4,7 +4,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/deepalii05/deepalii05)](https:deepalii05.dev)
 
-https://img.shields.io/github/followers/deepalii05
+[![Followers Badge](https://img.shields.io/github/followers/deepalii05)]
 
 [![Years Badge](https://badges.pufler.dev/years/deepalii05)](https://badges.deepalii05.dev)
 

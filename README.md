@@ -1,7 +1,9 @@
+<div ="right">
+
 ![jolly](https://user-images.githubusercontent.com/77734636/163214134-9fa99f17-4127-4c68-9b00-549c3c3c8fe1.gif)
 
 <br><br>
-<div ="right">
+
   ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
 <br><br>

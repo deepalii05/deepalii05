@@ -1,4 +1,4 @@
-<pre>
+
 [![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://deepalii05.dev)
 <br><br>
 
@@ -26,4 +26,3 @@
 
    ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br>
-</pre>

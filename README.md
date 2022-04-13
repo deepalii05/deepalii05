@@ -10,12 +10,11 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/deepalii05)](https://badges.pufler.dev)
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=deepalii05&show_icons=true)
-<br>
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deepalii05&theme=blue-green)
 <br>
 
 <div align="center">
-## Show some ❤️ by starring ⭐ some of the repositories!
+## You Can Connect me :- 🤩
   
 <!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://prionto-71.web.app/) 
 [<img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Arpitad10)-->

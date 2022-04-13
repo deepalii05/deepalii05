@@ -1,20 +1,20 @@
 <div ="right">
 
-![jolly](https://user-images.githubusercontent.com/77734636/163214134-9fa99f17-4127-4c68-9b00-549c3c3c8fe1.gif)
+![jolly](https://user-images.githubusercontent.com/77734636/163214134-9fa99f17-4127-4c68-9b00-549c3c3c8fe1.gif)<br>
   ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
-<br><br>
+
   
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=deepalii05&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deepalii05&theme=blue-green)
+<br>
+
 ![Visits Badge](https://badges.pufler.dev/visits/deepalii05/deepalii05)
 ![Followers Badge](https://img.shields.io/github/followers/deepalii05)
 [![Years Badge](https://badges.pufler.dev/years/deepalii05)](https://badges.deepalii05.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/deepalii05)](https://badges.deepalii05.dev)
 [![Created Badge](https://badges.pufler.dev/created/puf17640/git-badges)](https://badges.deepalii05.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/deepalii05)](https://badges.pufler.dev)
-
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=deepalii05&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deepalii05&theme=blue-green)
-<br>
 
 <div align="right">
   <h3> You Can Connect me :- 🤩</h3>

@@ -3,7 +3,7 @@
 ![jolly](https://user-images.githubusercontent.com/77734636/163214134-9fa99f17-4127-4c68-9b00-549c3c3c8fe1.gif)<br>
 
 <h4> ⭐⭐⭐Only Programmers can understand😆😆😆</h4>
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
   
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=deepalii05&show_icons=true)
@@ -25,12 +25,6 @@
 [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">](https://leetcode.com/deepalii05/)
 </div>
 
-<div align="right">
-  
-  
-
-<br>
-
-   </div>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 

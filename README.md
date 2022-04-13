@@ -9,6 +9,6 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/deepalii05)](https://badges.pufler.dev)
 <br>
 
-
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=deepalii05&show_icons=true)
 
 

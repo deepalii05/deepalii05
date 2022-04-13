@@ -1,4 +1,5 @@
 [![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+/*
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
@@ -141,3 +142,4 @@ Check back at the top of the hour for a new quote!
 > ### Want to know how I made this README?
 >
 > Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
+*/

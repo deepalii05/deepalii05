@@ -1,4 +1,5 @@
 [![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://deepalii05.dev)
+<video src="https://github.com/deepalii05/deepalii05/blob/main/assets/Welcome.mp4" width=180/>
 ![lisa](https://user-images.githubusercontent.com/77734636/163127768-37456785-9e99-4774-a34b-e137ad1a6730.mp4)
 
 <br><br>

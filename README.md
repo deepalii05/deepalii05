@@ -8,5 +8,5 @@
 <br><br>
 [![Created Badge](https://badges.pufler.dev/created/puf17640/git-badges)](https://badges.deepalii05.dev)
 <br><br>
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.deepalii05.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
 <br><br>

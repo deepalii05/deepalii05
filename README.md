@@ -1,6 +1,10 @@
 ![jolly](https://user-images.githubusercontent.com/77734636/163214134-9fa99f17-4127-4c68-9b00-549c3c3c8fe1.gif)
 
 <br><br>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<br><br>
   
 ![Visits Badge](https://badges.pufler.dev/visits/deepalii05/deepalii05)
 ![Followers Badge](https://img.shields.io/github/followers/deepalii05)
@@ -24,7 +28,7 @@
 <div align="right">
   
   
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <br>
 
    </div>

@@ -2,7 +2,7 @@
 <br><br>
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/deepalii05/deepalii05)](https:deepalii05.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/deepalii05/deepalii05)]
 
 [![Followers Badge](https://img.shields.io/github/followers/deepalii05)]
 

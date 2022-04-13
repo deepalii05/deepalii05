@@ -1,4 +1,4 @@
-
+[![Braydon's GitHub Banner](https://media0.giphy.com/media/l3q2sZfD4v4lgrBGU/giphy.gif?cid=790b761194458f9a85212a05993018133515a91d760ca259&rid=giphy.gif&ct=g)]
 [![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://deepalii05.dev)
 <br><br>
 

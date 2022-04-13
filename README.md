@@ -1,8 +1,3 @@
-
-
-https://user-images.githubusercontent.com/77734636/163213527-7250ab72-a14a-43bb-b4f2-44c58bb140ea.mp4
-
-
 ![jolly](https://user-images.githubusercontent.com/77734636/163214134-9fa99f17-4127-4c68-9b00-549c3c3c8fe1.gif)
 
 <br><br>
@@ -34,4 +29,4 @@ https://user-images.githubusercontent.com/77734636/163213527-7250ab72-a14a-43bb-
 
    </div>
 
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+

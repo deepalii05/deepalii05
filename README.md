@@ -1,12 +1,3 @@
-![welcome](https://user-images.githubusercontent.com/77734636/163216679-3975cc5d-a9e7-45b1-9b3a-702ce983be17.gif)
-
-
-
-
-<h4> ⭐⭐⭐Only Programmers can understand😆😆😆</h4>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-  
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=deepalii05&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deepalii05&theme=blue-green)
 <br>

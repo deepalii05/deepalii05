@@ -1,6 +1,11 @@
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=deepalii05&show_icons=true)
 <br>
+![GitHub stars](https://img.shields.io/github/stars/USER/REPOSITORY?style=social)
+![GitHub forks](https://img.shields.io/github/forks/USER/REPOSITORY?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/USER/REPOSITORY?style=social)
+![GitHub followers](https://img.shields.io/github/followers/USER?style=social)
+<br>
 ![Visits Badge](https://badges.pufler.dev/visits/deepalii05/deepalii05)
 ![Followers Badge](https://img.shields.io/github/followers/deepalii05)
 [![Years Badge](https://badges.pufler.dev/years/deepalii05)](https://badges.deepalii05.dev)

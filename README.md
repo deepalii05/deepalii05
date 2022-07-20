@@ -1,6 +1,5 @@
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=deepalii05&show_icons=true)
-![GitHub Contributors Image](https://contrib.rocks/image?repo=deepalii05/deepalii05)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=deepalii05)
 <br>
 <div align="right">

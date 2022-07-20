@@ -1,10 +1,9 @@
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=deepalii05&show_icons=true)
 <br>
-![GitHub stars](https://img.shields.io/github/stars/deepalii05/REPOSITORY?style=social)
-![GitHub forks](https://img.shields.io/github/forks/deepalii05/REPOSITORY?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/deepalii05/REPOSITORY?style=social)
-![GitHub followers](https://img.shields.io/github/followers/deepalii05?style=social)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deepalii05&theme=blue-green)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/Your_GitHub_Repository_Name)
+![Profile View Counter](https://komarev.com/ghpvc/?username=deepalii05)
 <br>
 ![Visits Badge](https://badges.pufler.dev/visits/deepalii05/deepalii05)
 ![Followers Badge](https://img.shields.io/github/followers/deepalii05)

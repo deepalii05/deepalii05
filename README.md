@@ -1,17 +1,8 @@
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=deepalii05&show_icons=true)
-<br>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deepalii05&theme=blue-green)
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/Your_GitHub_Repository_Name)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=deepalii05/deepalii05)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=deepalii05)
 <br>
-![Visits Badge](https://badges.pufler.dev/visits/deepalii05/deepalii05)
-![Followers Badge](https://img.shields.io/github/followers/deepalii05)
-[![Years Badge](https://badges.pufler.dev/years/deepalii05)](https://badges.deepalii05.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/deepalii05)](https://badges.deepalii05.dev)
-[![Created Badge](https://badges.pufler.dev/created/puf17640/git-badges)](https://badges.deepalii05.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/deepalii05)](https://badges.pufler.dev)
-
 <div align="right">
   
   <h3> You Can Contact me :- 🤩</h3>

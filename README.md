@@ -1,7 +1,6 @@
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=deepalii05&show_icons=true)
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=deepalii05&show_icons=true)<br>
 ![Profile View Counter](https://komarev.com/ghpvc/?username=deepalii05)
-<br>
 <div align="right">
   
   <h3> You Can Contact me :- 🤩</h3>

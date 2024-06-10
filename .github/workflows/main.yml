@@ -1,0 +1,15 @@
+name: Github Snake Game
+
+on: 
+  schedule: 
+    - cron: 0 0 * * *
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v1
+        with:
+          github_user_name: deepalii05
+          gif_out_path: dist/github-snake.gif
+          svg_out_path: dist/github-snake.svg
